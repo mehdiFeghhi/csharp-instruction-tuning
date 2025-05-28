@@ -50,7 +50,7 @@ dataset = load_dataset("MehdiFe/csharp-instruction-Dataset")
 
 * Total files: 4,000
 * Avg. tokens per sample: \~830
-* Domains: GitHub (The Stack v1.2, permissively licensed) + proprietary enterprise code
+* Domains: GitHub (The Stack, permissively licensed) + proprietary enterprise code
 * Format: Instruction–response pairs derived from semantically structured C# source files
 
 ## 🧠 Methodology Highlights
