@@ -70,9 +70,9 @@ If you use our dataset or models, please cite the following:
 ```bibtex
 @misc{feizollahi2025csharp,
   title={Data Generation and Model Training for Large Language Models: A Comprehensive Approach to Code Generation},
-  author={Feizollahi, Mehdi and et al.},
+  author={Mehdi Feghhi},
   year={2025},
-  note={EMNLP Submission},
+  note={Inprocess},
 }
 ```
 
