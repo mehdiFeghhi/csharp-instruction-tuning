@@ -32,9 +32,6 @@ Each model was trained on the same C# instruction dataset and evaluated using th
 Evaluation was performed using **CodeBLEU** on both open and proprietary benchmarks.
 
 
-
-✅ **Hermes-3-LLaMA 3.1 8B** consistently outperformed other models on enterprise-domain C# code.
-
 ## 📁 Dataset
 
 We release the full C# instruction-tuning dataset used in this work:
